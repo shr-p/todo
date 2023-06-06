@@ -3,7 +3,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  background-color: #282c34;
+  background-color: #308a64;
 }
 
 .container {
@@ -20,7 +20,7 @@
 .todoForm {
   display: flex;
   justify-content: space-around;
-  width: 450px;
+  width: max-content;
 }
 
 input {
@@ -47,7 +47,7 @@ button {
   background-color: #5dadf8;
   padding: 10px 20px;
   display: flex;
-  width: 450px;
+  width: max-content;
   align-items: center;
 }
 .todoText {
